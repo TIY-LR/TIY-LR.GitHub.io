@@ -1,0 +1,44 @@
+﻿@font-face {
+    font-family: 'TisaPro';
+    src: url('TisaPro/TisaPro.otf') format('opentype'), url('TisaPro/TisaPro-BoldIta.otf') format('opentype'), url('TisaPro/TisaPro-Ita.otf') format('opentype'), url('TisaPro/TisaPro-Light.otf') format('opentype'), url('TisaPro/TisaPro-LightIta.otf') format('opentype'), url('TisaPro/TisaPro-Medi.otf') format('opentype'), url('TisaPro/TisaPro-MediIta.otf') format('opentype'), url('TisaPro/TisaPro-Bold.otf') format('opentype');
+}
+
+.header {
+    background-color: #39474E;
+    color: white;
+}
+
+.header .logo img {
+    width: 90px;
+}
+
+body {
+    font-family: 'TisaPro';
+    color: #39474E;
+    line-height: 1.6;
+
+}
+a {
+    color: #158cbd;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+.stdimage {
+    margin-left: 60px;
+    float: left;
+}
+
+.stdimage a img {
+    width: 125px;
+}
+
+.stdinfo {
+    float: left;
+    padding-left: 20px;
+}
+

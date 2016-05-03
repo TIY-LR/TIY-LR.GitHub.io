@@ -1,0 +1,80 @@
+﻿<!DOCTYPE html>
+<html ng-app="app" ng-cloak>
+<head>
+    <title>TIY Little Rock Demo Day</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link href="styles.css" rel="stylesheet" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.5/angular.js"></script>
+
+</head>
+<body>
+    <div class="container-fluid header">
+        <div class="header-dimmer ">
+            <div class="container">
+                <div class="header">
+                    <div class="logo"><a href="/"><img src="iron-yard-logo.svg" /></a></div>
+                    <div class="nav">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style=";  margin-left: -15px; margin-right: -15px;" class=" gray-dark-bg ">
+            <div class="container">
+                <div class="sub-nav">
+                    <div class="col-xs-12">
+                        <h2 style="font-size: 60px;">Demo Day - Little Rock</h2>
+
+                        <div class="triangle gray-dark-triangle"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-sm-8">
+
+                <div ng-controller="studentCtrl">
+
+                    <h1>Front End Class: </h1>
+                    <div ng-repeat="s in students | filter:{Class: 0}">
+
+                        <div class="stdimage">
+                            <a href="{{s.GitHubLink}}">
+                                <img class="thumbnail" ng-src="https://www.placecage.com/200/250" alt="" />
+                            </a>
+
+                        </div>
+                        <div class="stdinfo">
+                            <h2>{{s.FirstName}} {{s.LastName}}</h2>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+
+
+
+                    <h1>Back End Class: </h1>
+                    <div ng-repeat="s in students | filter:{Class: 0}">
+                        <div class="stdimage">
+                            <a href="{{s.GitHubLink}}">
+                                <img class="thumbnail" ng-src="https://www.placecage.com/200/250" alt="" />
+                            </a>
+
+                        </div>
+                        <div class="stdinfo">
+                            <h2>{{s.FirstName}} {{s.LastName}}</h2>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="studentcontroller.js"></script>
+
+</body>
+
+</html>
