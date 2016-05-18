@@ -43,30 +43,34 @@
                     <div ng-repeat="s in students | filter:{Class: 0}">
 
                         <div class="stdimage">
-                            <a href="{{s.GitHubLink}}">
-                                <img class="thumbnail" ng-src="https://www.placecage.com/200/250" alt="" />
-                            </a>
+                                <img class="thumbnail" ng-src="images/{{s.FirstName | lowercase}}-{{s.LastName | lowercase}}.jpg" alt="" />
 
                         </div>
                         <div class="stdinfo">
                             <h2>{{s.FirstName}} {{s.LastName}}</h2>
+                            <h4>{{s.FinalProjectName}}</h4>
+                            <h5><a href="{{s.LinkedIn}}">LinkedIn</a> |  <a href="{{s.GitHubLink}}">Github</a></h5>
                         </div>
+                      
+
                         <div class="clearfix"></div>
                     </div>
 
 
 
                     <h1>Back End Class: </h1>
-                    <div ng-repeat="s in students | filter:{Class: 0}">
+                    <div ng-repeat="s in students | filter:{Class: 1}">
                         <div class="stdimage">
-                            <a href="{{s.GitHubLink}}">
-                                <img class="thumbnail" ng-src="https://www.placecage.com/200/250" alt="" />
-                            </a>
+                                <img class="thumbnail" ng-src="images/{{s.FirstName | lowercase}}-{{s.LastName | lowercase}}.jpg" alt="" />
 
                         </div>
                         <div class="stdinfo">
                             <h2>{{s.FirstName}} {{s.LastName}}</h2>
+                            <h4>{{s.FinalProjectName}}</h4>
+                            <h5><a href="{{s.LinkedIn}}">LinkedIn</a> |  <a href="{{s.GitHubLink}}">Github</a></h5>
                         </div>
+                      
+
                         <div class="clearfix"></div>
                     </div>
                 </div>

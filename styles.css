@@ -33,7 +33,7 @@ a:hover {
     float: left;
 }
 
-.stdimage a img {
+.stdimage img {
     width: 125px;
 }
 
@@ -41,4 +41,3 @@ a:hover {
     float: left;
     padding-left: 20px;
 }
-
