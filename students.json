@@ -8,7 +8,7 @@
     "FinalProjectName": "LunchConnect",
     "FinalProjectLink": "http://lunchconnect.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/ramseykate",
-    "Bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus aliquam rem reiciendis quos vel veniam beatae."
+    "Bio": "Kate became excited about software development at Harding University, where she earned a degree in Computer Science. A winding path took her out of development and into media sales, first as a research specialist and then as an outside sales rep. When she decided to come back to softwar, she saw Iron Yard as an opportunity to update her skills and become a more valuable developer.""
   },
   {
     "Id": 2,
@@ -19,7 +19,7 @@
     "FinalProjectName": "All is Fair",
     "FinalProjectLink": "http://allisfair.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/zachary-ballard-65546a120",
-    "Bio": null
+    "Bio": "Zach decided to leave the life of a pharmacy technician to explore the ever changing field of technology. He quickly fell in love with development and cannot wait to push forward in his new career path and learn new skills, languages, and techniques."
   },
   {
     "Id": 3,
@@ -27,10 +27,10 @@
     "LastName": "Link",
     "Class": 1,
     "GitHubLink": "https://github.com/TeeLink",
-    "FinalProjectName": "Indy Watchr",
+    "FinalProjectName": "Indy Watch",
     "FinalProjectLink": "https://indywatch.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/tee-link-6b500855",
-    "Bio": null
+    "Bio": "Originally from Hope, Arkansas, Tee graduated from Hendrix College with a History degree. After years of working customer service jobs he found the opportunity at a career at The Iron Yard."
   },
   {
     "Id": 4,
@@ -41,7 +41,7 @@
     "FinalProjectName": "Veterens Job Finder",
     "FinalProjectLink": "http://myvetjobssite.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/ruebel-holmes-84a83981",
-    "Bio": null
+    "Bio": "Trey was in the Navy and then a professional chef. He got interested in coding and joined The Iron Yard so he could change careers."
   },
   {
     "Id": 5,
@@ -74,7 +74,7 @@
     "FinalProjectName": "BookSwap",
     "FinalProjectLink": null,
     "LinkedIn": "https://www.linkedin.com/in/brian-stickney-918208b6",
-    "Bio": null
+    "Bio": "Brian is from North Little Rock, Arkansas."
   },
   {
     "Id": 8,
@@ -85,7 +85,7 @@
     "FinalProjectName": "Weather Watcher",
     "FinalProjectLink": "http://nmajors.github.io/final-project/",
     "LinkedIn": "https://www.linkedin.com/in/nmajorssmith",
-    "Bio": null
+    "Bio": "Nancy is biology graduate who most recently worked as a laboratory technician at a chemical manufacturing facility.  Her love of technology, learning, and desire to change her career trajectory led her to The Iron Yard."
   },
   {
     "Id": 9,
@@ -96,7 +96,7 @@
     "FinalProjectName": "Recipieasy",
     "FinalProjectLink": "http://shonhartman.github.io/Final-Project",
     "LinkedIn": "https://www.linkedin.com/in/shaun-hartman-1909a42b",
-    "Bio": null
+    "Bio":"Shaun is an artist, musician, dreamer by nature. Technology has helped him achieve harmony between the right and left side of his brain. This balance has given Shaun great joy, and he's spent the last 10 years sharing that joy with the community. Now, Shaun moves to make his own mark on software design."
   },
   {
     "Id": 10,
@@ -107,7 +107,7 @@
     "FinalProjectName": "Magic: The Gathering Limited Simulator",
     "FinalProjectLink": "http://jbooher.github.io/mtg-limited-sim/",
     "LinkedIn": "https://www.linkedin.com/in/johncbooher",
-    "Bio": null
+    "Bio": "John owned a small business in Conway for five years. After that, he struggled to find a career that he really enjoyed.  A friend suggested trying web development. John tried a few online courses and was hooked.  He signed up for The Iron Yard shortly after because he was ready to learn as much as he could."
   },
   {
     "Id": 11,
@@ -118,7 +118,7 @@
     "FinalProjectName": "Restaurant Rater",
     "FinalProjectLink": null,
     "LinkedIn": "https://www.linkedin.com/in/james-mccray-23122293",
-    "Bio": null
+    "Bio": "In the fall of 2014, James took a semester of college at Verity College. Before that, was an Audio Engineering intern at Dark Horse Studio in Nashville TN, where he helped monitor recording sessions. I found out about the Iron Yard through a friend and Front End Web Development is a career path James is very excited about."
   },
   {
     "Id": 12,
@@ -127,9 +127,9 @@
     "Class": 0,
     "GitHubLink": "https://github.com/johnkeisker",
     "FinalProjectName": "Little Rock Microbrews",
-    "FinalProjectLink": null,
+    "FinalProjectLink": "http://johnkeisker.github.io/final-project/#/",
     "LinkedIn": "https://www.linkedin.com/in/john-keisker-116441102",
-    "Bio": null
+    "Bio": "Arkansas born and raised, John Keisker is a people person with a strong desire to better his community. Having endured several challenges throughout his journey from childhood into adulthood, John is equipped with patience and perseverance. Still growing and developing as a Front End Engineer, he is a passionate and creative individual with willingness to learn and a thirst for knowledge."
   },
   {
     "Id": 13,
