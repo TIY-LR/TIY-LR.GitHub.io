@@ -6,7 +6,7 @@
     "Class": 1,
     "GitHubLink": "https://github.com/kateramsey",
     "FinalProjectName": "LunchConnect",
-    "FinalProjectLink": null,
+    "FinalProjectLink": "http://lunchconnect.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/ramseykate",
     "Bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus aliquam rem reiciendis quos vel veniam beatae."
   },
@@ -17,7 +17,7 @@
     "Class": 1,
     "GitHubLink": "https://github.com/zachballard",
     "FinalProjectName": "All is Fair",
-    "FinalProjectLink": null,
+    "FinalProjectLink": "http://allisfair.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/zachary-ballard-65546a120",
     "Bio": null
   },
@@ -27,8 +27,8 @@
     "LastName": "Link",
     "Class": 1,
     "GitHubLink": "https://github.com/TeeLink",
-    "FinalProjectName": "Graps Track",
-    "FinalProjectLink": null,
+    "FinalProjectName": "Indy Watchr",
+    "FinalProjectLink": "https://indywatch.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/tee-link-6b500855",
     "Bio": null
   },
@@ -49,8 +49,8 @@
     "LastName": "Mach",
     "Class": 1,
     "GitHubLink": "https://github.com/kvnmach",
-    "FinalProjectName": null,
-    "FinalProjectLink": null,
+    "FinalProjectName": "Share Shed",
+    "FinalProjectLink": "http://shareshed.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/kevin-mach-781211116",
     "Bio": null
   },
@@ -61,7 +61,7 @@
     "Class": 1,
     "GitHubLink": "https://github.com/stetteh",
     "FinalProjectName": "Dine In Arkansas",
-    "FinalProjectLink": null,
+    "FinalProjectLink": "http://dineinarkansas.azurewebsites.net/",
     "LinkedIn": "https://www.linkedin.com/in/stettehquaye",
     "Bio": "Originally from Ghana, West Africa, Seth was working as customer service representative at FIS Global before heading to The Iron Yard.  Seth loves technology and wanted a career change."
   },
@@ -94,7 +94,7 @@
     "Class": 0,
     "GitHubLink": "https://github.com/shonhartman",
     "FinalProjectName": "Recipieasy",
-    "FinalProjectLink": null,
+    "FinalProjectLink": "http://shonhartman.github.io/Final-Project",
     "LinkedIn": "https://www.linkedin.com/in/shaun-hartman-1909a42b",
     "Bio": null
   },
