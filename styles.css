@@ -28,16 +28,14 @@ a:hover {
 }
 
 
-.stdimage {
-    margin-left: 60px;
-    float: left;
-}
-
 .stdimage img {
-    width: 125px;
 }
 
 .stdinfo {
     float: left;
     padding-left: 20px;
+}
+
+.bio {
+    padding:20px;
 }
